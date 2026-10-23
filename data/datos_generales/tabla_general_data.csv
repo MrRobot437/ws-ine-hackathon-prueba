@@ -1,0 +1,351 @@
+﻿Entidad;Estado;1                    Ent.;2                                  Nombre;Nombres de medidas;i;Valores de medidas
+1;Aguascalientes;AGS;Circuito Judicial 30;12                                    IMV;1;72,815781101
+1;Aguascalientes;AGS;Circuito Judicial 30;11                                      IML;1;93,170562199
+1;Aguascalientes;AGS;Circuito Judicial 30;10                                             %Registros no disponibles;1;0,016653932
+1;Aguascalientes;AGS;Circuito Judicial 30;9                                      Registros no disponibles;1;18701
+1;Aguascalientes;AGS;Circuito Judicial 30;8                         %Abstención;1;0,877025983
+1;Aguascalientes;AGS;Circuito Judicial 30;7                                           % Participación;1;0,122974017
+1;Aguascalientes;AGS;Circuito Judicial 30;6                                   Registros totales;1;1104217
+1;Aguascalientes;AGS;Circuito Judicial 30;5                                          No votaron;1;968427
+1;Aguascalientes;AGS;Circuito Judicial 30;4                                   Sí votaron;1;135790
+1;Aguascalientes;AGS;Circuito Judicial 30;3                                  Lista nominal;1;1122918
+2;Baja California;BC;Circuito Judicial 15;12                                    IMV;2;97,035913275
+2;Baja California;BC;Circuito Judicial 15;11                                      IML;2;99,129358856
+2;Baja California;BC;Circuito Judicial 15;10                                             %Registros no disponibles;2;0,013680545
+2;Baja California;BC;Circuito Judicial 15;9                                      Registros no disponibles;2;45201
+2;Baja California;BC;Circuito Judicial 15;8                         %Abstención;2;0,911124961
+2;Baja California;BC;Circuito Judicial 15;7                                           % Participación;2;0,088875039
+2;Baja California;BC;Circuito Judicial 15;6                                   Registros totales;2;3258834
+2;Baja California;BC;Circuito Judicial 15;5                                          No votaron;2;2969205
+2;Baja California;BC;Circuito Judicial 15;4                                   Sí votaron;2;289629
+2;Baja California;BC;Circuito Judicial 15;3                                  Lista nominal;2;3304035
+3;Baja California Sur;BCS;Circuito Judicial 26;12                                    IMV;3;101,918557750
+3;Baja California Sur;BCS;Circuito Judicial 26;11                                      IML;3;104,105522536
+3;Baja California Sur;BCS;Circuito Judicial 26;10                                             %Registros no disponibles;3;0,003921227
+3;Baja California Sur;BCS;Circuito Judicial 26;9                                      Registros no disponibles;3;2475
+3;Baja California Sur;BCS;Circuito Judicial 26;8                         %Abstención;3;0,908432413
+3;Baja California Sur;BCS;Circuito Judicial 26;7                                           % Participación;3;0,091567587
+3;Baja California Sur;BCS;Circuito Judicial 26;6                                   Registros totales;3;628705
+3;Baja California Sur;BCS;Circuito Judicial 26;5                                          No votaron;3;571136
+3;Baja California Sur;BCS;Circuito Judicial 26;4                                   Sí votaron;3;57569
+3;Baja California Sur;BCS;Circuito Judicial 26;3                                  Lista nominal;3;631180
+4;Campeche;CAMP;Circuito Judicial 31;12                                    IMV;4;96,829652078
+4;Campeche;CAMP;Circuito Judicial 31;11                                      IML;4;95,630385677
+4;Campeche;CAMP;Circuito Judicial 31;10                                             %Registros no disponibles;4;0,020777977
+4;Campeche;CAMP;Circuito Judicial 31;9                                      Registros no disponibles;4;14576
+4;Campeche;CAMP;Circuito Judicial 31;8                         %Abstención;4;0,852501543
+4;Campeche;CAMP;Circuito Judicial 31;7                                           % Participación;4;0,147498457
+4;Campeche;CAMP;Circuito Judicial 31;6                                   Registros totales;4;686936
+4;Campeche;CAMP;Circuito Judicial 31;5                                          No votaron;4;585614
+4;Campeche;CAMP;Circuito Judicial 31;4                                   Sí votaron;4;101322
+4;Campeche;CAMP;Circuito Judicial 31;3                                  Lista nominal;4;701512
+5;Coahuila;COAH;Circuito Judicial 8;12                                    IMV;5;62,374572160
+5;Coahuila;COAH;Circuito Judicial 8;11                                      IML;5;96,985959729
+5;Coahuila;COAH;Circuito Judicial 8;10                                             %Registros no disponibles;5;0,020129206
+5;Coahuila;COAH;Circuito Judicial 8;9                                      Registros no disponibles;5;49414
+5;Coahuila;COAH;Circuito Judicial 8;8                         %Abstención;5;0,757614760
+5;Coahuila;COAH;Circuito Judicial 8;7                                           % Participación;5;0,242385240
+5;Coahuila;COAH;Circuito Judicial 8;6                                   Registros totales;5;2405427
+5;Coahuila;COAH;Circuito Judicial 8;5                                          No votaron;5;1822387
+5;Coahuila;COAH;Circuito Judicial 8;4                                   Sí votaron;5;583040
+5;Coahuila;COAH;Circuito Judicial 8;3                                  Lista nominal;5;2454841
+6;Colima;COL;Circuito Judicial 32;12                                    IMV;6;97,347166133
+6;Colima;COL;Circuito Judicial 32;11                                      IML;6;95,078964159
+6;Colima;COL;Circuito Judicial 32;10                                             %Registros no disponibles;6;0,008169761
+6;Colima;COL;Circuito Judicial 32;9                                      Registros no disponibles;6;4846
+6;Colima;COL;Circuito Judicial 32;8                         %Abstención;6;0,903647183
+6;Colima;COL;Circuito Judicial 32;7                                           % Participación;6;0,096352817
+6;Colima;COL;Circuito Judicial 32;6                                   Registros totales;6;588317
+6;Colima;COL;Circuito Judicial 32;5                                          No votaron;6;531631
+6;Colima;COL;Circuito Judicial 32;4                                   Sí votaron;6;56686
+6;Colima;COL;Circuito Judicial 32;3                                  Lista nominal;6;593163
+7;Chiapas;CHIS;Circuito Judicial 20;12                                    IMV;7;95,651584486
+7;Chiapas;CHIS;Circuito Judicial 20;11                                      IML;7;91,771601817
+7;Chiapas;CHIS;Circuito Judicial 20;10                                             %Registros no disponibles;7;0,048110697
+7;Chiapas;CHIS;Circuito Judicial 20;9                                      Registros no disponibles;7;195432
+7;Chiapas;CHIS;Circuito Judicial 20;8                         %Abstención;7;0,802184292
+7;Chiapas;CHIS;Circuito Judicial 20;7                                           % Participación;7;0,197815708
+7;Chiapas;CHIS;Circuito Judicial 20;6                                   Registros totales;7;3866700
+7;Chiapas;CHIS;Circuito Judicial 20;5                                          No votaron;7;3101806
+7;Chiapas;CHIS;Circuito Judicial 20;4                                   Sí votaron;7;764894
+7;Chiapas;CHIS;Circuito Judicial 20;3                                  Lista nominal;7;4062132
+8;Chihuahua;CHIH;Circuito Judicial 17;12                                    IMV;8;87,125577059
+8;Chihuahua;CHIH;Circuito Judicial 17;11                                      IML;8;96,200492663
+8;Chihuahua;CHIH;Circuito Judicial 17;10                                             %Registros no disponibles;8;0,040130977
+8;Chihuahua;CHIH;Circuito Judicial 17;9                                      Registros no disponibles;8;126162
+8;Chihuahua;CHIH;Circuito Judicial 17;8                         %Abstención;8;0,877628004
+8;Chihuahua;CHIH;Circuito Judicial 17;7                                           % Participación;8;0,122371996
+8;Chihuahua;CHIH;Circuito Judicial 17;6                                   Registros totales;8;3017594
+8;Chihuahua;CHIH;Circuito Judicial 17;5                                          No votaron;8;2648325
+8;Chihuahua;CHIH;Circuito Judicial 17;4                                   Sí votaron;8;369269
+8;Chihuahua;CHIH;Circuito Judicial 17;3                                  Lista nominal;8;3143756
+9;Ciudad de México;CDMX;Circuito Judicial 1;12                                    IMV;9;82,352079489
+9;Ciudad de México;CDMX;Circuito Judicial 1;11                                      IML;9;88,859372276
+9;Ciudad de México;CDMX;Circuito Judicial 1;10                                             %Registros no disponibles;9;0,001424518
+9;Ciudad de México;CDMX;Circuito Judicial 1;9                                      Registros no disponibles;9;11358
+9;Ciudad de México;CDMX;Circuito Judicial 1;8                         %Abstención;9;0,853028800
+9;Ciudad de México;CDMX;Circuito Judicial 1;7                                           % Participación;9;0,146971200
+9;Ciudad de México;CDMX;Circuito Judicial 1;6                                   Registros totales;9;7961866
+9;Ciudad de México;CDMX;Circuito Judicial 1;5                                          No votaron;9;6791701
+9;Ciudad de México;CDMX;Circuito Judicial 1;4                                   Sí votaron;9;1170165
+9;Ciudad de México;CDMX;Circuito Judicial 1;3                                  Lista nominal;9;7973224
+10;Durango;DGO;Circuito Judicial 8;12                                    IMV;10;81,029317355
+10;Durango;DGO;Circuito Judicial 8;11                                      IML;10;95,746587502
+10;Durango;DGO;Circuito Judicial 8;10                                             %Registros no disponibles;10;0,017680587
+10;Durango;DGO;Circuito Judicial 8;9                                      Registros no disponibles;10;8149
+10;Durango;DGO;Circuito Judicial 8;8                         %Abstención;10;0,813153780
+10;Durango;DGO;Circuito Judicial 8;7                                           % Participación;10;0,186846220
+10;Durango;DGO;Circuito Judicial 8;6                                   Registros totales;10;452752
+10;Durango;DGO;Circuito Judicial 8;5                                          No votaron;10;368157
+10;Durango;DGO;Circuito Judicial 8;4                                   Sí votaron;10;84595
+10;Durango;DGO;Circuito Judicial 8;3                                  Lista nominal;10;460901
+10;Durango;DGO;Circuito Judicial 25;12                                    IMV;11;79,353640914
+10;Durango;DGO;Circuito Judicial 25;11                                      IML;11;94,469974439
+10;Durango;DGO;Circuito Judicial 25;10                                             %Registros no disponibles;11;0,044874876
+10;Durango;DGO;Circuito Judicial 25;9                                      Registros no disponibles;11;43222
+10;Durango;DGO;Circuito Judicial 25;8                         %Abstención;11;0,796279125
+10;Durango;DGO;Circuito Judicial 25;7                                           % Participación;11;0,203720875
+10;Durango;DGO;Circuito Judicial 25;6                                   Registros totales;11;919945
+10;Durango;DGO;Circuito Judicial 25;5                                          No votaron;11;732533
+10;Durango;DGO;Circuito Judicial 25;4                                   Sí votaron;11;187412
+10;Durango;DGO;Circuito Judicial 25;3                                  Lista nominal;11;963167
+11;Guanajuato;GTO;Circuito Judicial 16;12                                    IMV;12;85,532175077
+11;Guanajuato;GTO;Circuito Judicial 16;11                                      IML;12;90,631075348
+11;Guanajuato;GTO;Circuito Judicial 16;10                                             %Registros no disponibles;12;0,001457449
+11;Guanajuato;GTO;Circuito Judicial 16;9                                      Registros no disponibles;12;7157
+11;Guanajuato;GTO;Circuito Judicial 16;8                         %Abstención;12;0,934404124
+11;Guanajuato;GTO;Circuito Judicial 16;7                                           % Participación;12;0,065595876
+11;Guanajuato;GTO;Circuito Judicial 16;6                                   Registros totales;12;4903479
+11;Guanajuato;GTO;Circuito Judicial 16;5                                          No votaron;12;4581831
+11;Guanajuato;GTO;Circuito Judicial 16;4                                   Sí votaron;12;321648
+11;Guanajuato;GTO;Circuito Judicial 16;3                                  Lista nominal;12;4910636
+12;Guerrero;GRO;Circuito Judicial 21;12                                    IMV;13;84,665347662
+12;Guerrero;GRO;Circuito Judicial 21;11                                      IML;13;89,255876394
+12;Guerrero;GRO;Circuito Judicial 21;10                                             %Registros no disponibles;13;0,009475395
+12;Guerrero;GRO;Circuito Judicial 21;9                                      Registros no disponibles;13;25180
+12;Guerrero;GRO;Circuito Judicial 21;8                         %Abstención;13;0,857100959
+12;Guerrero;GRO;Circuito Judicial 21;7                                           % Participación;13;0,142899041
+12;Guerrero;GRO;Circuito Judicial 21;6                                   Registros totales;13;2632229
+12;Guerrero;GRO;Circuito Judicial 21;5                                          No votaron;13;2256086
+12;Guerrero;GRO;Circuito Judicial 21;4                                   Sí votaron;13;376143
+12;Guerrero;GRO;Circuito Judicial 21;3                                  Lista nominal;13;2657409
+13;Hidalgo;HGO;Circuito Judicial 29;12                                    IMV;14;83,318977408
+13;Hidalgo;HGO;Circuito Judicial 29;11                                      IML;14;88,997594413
+13;Hidalgo;HGO;Circuito Judicial 29;10                                             %Registros no disponibles;14;0,007701123
+13;Hidalgo;HGO;Circuito Judicial 29;9                                      Registros no disponibles;14;18696
+13;Hidalgo;HGO;Circuito Judicial 29;8                         %Abstención;14;0,864830332
+13;Hidalgo;HGO;Circuito Judicial 29;7                                           % Participación;14;0,135169668
+13;Hidalgo;HGO;Circuito Judicial 29;6                                   Registros totales;14;2409002
+13;Hidalgo;HGO;Circuito Judicial 29;5                                          No votaron;14;2083378
+13;Hidalgo;HGO;Circuito Judicial 29;4                                   Sí votaron;14;325624
+13;Hidalgo;HGO;Circuito Judicial 29;3                                  Lista nominal;14;2427698
+14;Jalisco;JAL;Circuito Judicial 3;12                                    IMV;15;96,908937258
+14;Jalisco;JAL;Circuito Judicial 3;11                                      IML;15;94,315768064
+14;Jalisco;JAL;Circuito Judicial 3;10                                             %Registros no disponibles;15;0,013877306
+14;Jalisco;JAL;Circuito Judicial 3;9                                      Registros no disponibles;15;93602
+14;Jalisco;JAL;Circuito Judicial 3;8                         %Abstención;15;0,929585753
+14;Jalisco;JAL;Circuito Judicial 3;7                                           % Participación;15;0,070414247
+14;Jalisco;JAL;Circuito Judicial 3;6                                   Registros totales;15;6651367
+14;Jalisco;JAL;Circuito Judicial 3;5                                          No votaron;15;6183016
+14;Jalisco;JAL;Circuito Judicial 3;4                                   Sí votaron;15;468351
+14;Jalisco;JAL;Circuito Judicial 3;3                                  Lista nominal;15;6744969
+15;México;MEX;Circuito Judicial 2;12                                    IMV;16;78,069057817
+15;México;MEX;Circuito Judicial 2;11                                      IML;16;90,287336236
+15;México;MEX;Circuito Judicial 2;10                                             %Registros no disponibles;16;0,009554699
+15;México;MEX;Circuito Judicial 2;9                                      Registros no disponibles;16;126156
+15;México;MEX;Circuito Judicial 2;8                         %Abstención;16;0,877095744
+15;México;MEX;Circuito Judicial 2;7                                           % Participación;16;0,122904256
+15;México;MEX;Circuito Judicial 2;6                                   Registros totales;16;13077399
+15;México;MEX;Circuito Judicial 2;5                                          No votaron;16;11470131
+15;México;MEX;Circuito Judicial 2;4                                   Sí votaron;16;1607268
+15;México;MEX;Circuito Judicial 2;3                                  Lista nominal;16;13203555
+16;Michoacán;MICH;Circuito Judicial 11;12                                    IMV;17;85,843622546
+16;Michoacán;MICH;Circuito Judicial 11;11                                      IML;17;91,474834611
+16;Michoacán;MICH;Circuito Judicial 11;10                                             %Registros no disponibles;17;0,028084687
+16;Michoacán;MICH;Circuito Judicial 11;9                                      Registros no disponibles;17;106696
+16;Michoacán;MICH;Circuito Judicial 11;8                         %Abstención;17;0,891649164
+16;Michoacán;MICH;Circuito Judicial 11;7                                           % Participación;17;0,108350836
+16;Michoacán;MICH;Circuito Judicial 11;6                                   Registros totales;17;3692385
+16;Michoacán;MICH;Circuito Judicial 11;5                                          No votaron;17;3292312
+16;Michoacán;MICH;Circuito Judicial 11;4                                   Sí votaron;17;400073
+16;Michoacán;MICH;Circuito Judicial 11;3                                  Lista nominal;17;3799081
+17;Morelos;MOR;Circuito Judicial 18;12                                    IMV;18;86,263851834
+17;Morelos;MOR;Circuito Judicial 18;11                                      IML;18;89,318151289
+17;Morelos;MOR;Circuito Judicial 18;10                                             %Registros no disponibles;18;0,001605740
+17;Morelos;MOR;Circuito Judicial 18;9                                      Registros no disponibles;18;2512
+17;Morelos;MOR;Circuito Judicial 18;8                         %Abstención;18;0,892274419
+17;Morelos;MOR;Circuito Judicial 18;7                                           % Participación;18;0,107725581
+17;Morelos;MOR;Circuito Judicial 18;6                                   Registros totales;18;1561876
+17;Morelos;MOR;Circuito Judicial 18;5                                          No votaron;18;1393622
+17;Morelos;MOR;Circuito Judicial 18;4                                   Sí votaron;18;168254
+17;Morelos;MOR;Circuito Judicial 18;3                                  Lista nominal;18;1564388
+18;Nayarit;NAY;Circuito Judicial 24;12                                    IMV;19;89,762686618
+18;Nayarit;NAY;Circuito Judicial 24;11                                      IML;19;96,269353300
+18;Nayarit;NAY;Circuito Judicial 24;10                                             %Registros no disponibles;19;0,000984241
+18;Nayarit;NAY;Circuito Judicial 24;9                                      Registros no disponibles;19;952
+18;Nayarit;NAY;Circuito Judicial 24;8                         %Abstención;19;0,883980085
+18;Nayarit;NAY;Circuito Judicial 24;7                                           % Participación;19;0,116019915
+18;Nayarit;NAY;Circuito Judicial 24;6                                   Registros totales;19;966291
+18;Nayarit;NAY;Circuito Judicial 24;5                                          No votaron;19;854182
+18;Nayarit;NAY;Circuito Judicial 24;4                                   Sí votaron;19;112109
+18;Nayarit;NAY;Circuito Judicial 24;3                                  Lista nominal;19;967243
+19;Nuevo León;NL;Circuito Judicial 4;12                                    IMV;20;88,788441807
+19;Nuevo León;NL;Circuito Judicial 4;11                                      IML;20;99,289806744
+19;Nuevo León;NL;Circuito Judicial 4;10                                             %Registros no disponibles;20;0,001564322
+19;Nuevo León;NL;Circuito Judicial 4;9                                      Registros no disponibles;20;7121
+19;Nuevo León;NL;Circuito Judicial 4;8                         %Abstención;20;0,895147425
+19;Nuevo León;NL;Circuito Judicial 4;7                                           % Participación;20;0,104852575
+19;Nuevo León;NL;Circuito Judicial 4;6                                   Registros totales;20;4545010
+19;Nuevo León;NL;Circuito Judicial 4;5                                          No votaron;20;4068454
+19;Nuevo León;NL;Circuito Judicial 4;4                                   Sí votaron;20;476556
+19;Nuevo León;NL;Circuito Judicial 4;3                                  Lista nominal;20;4552131
+20;Oaxaca;OAX;Circuito Judicial 13;12                                    IMV;21;81,652358561
+20;Oaxaca;OAX;Circuito Judicial 13;11                                      IML;21;87,186350965
+20;Oaxaca;OAX;Circuito Judicial 13;10                                             %Registros no disponibles;21;0,003474183
+20;Oaxaca;OAX;Circuito Judicial 13;9                                      Registros no disponibles;21;10925
+20;Oaxaca;OAX;Circuito Judicial 13;8                         %Abstención;21;0,840848786
+20;Oaxaca;OAX;Circuito Judicial 13;7                                           % Participación;21;0,159151214
+20;Oaxaca;OAX;Circuito Judicial 13;6                                   Registros totales;21;3133699
+20;Oaxaca;OAX;Circuito Judicial 13;5                                          No votaron;21;2634967
+20;Oaxaca;OAX;Circuito Judicial 13;4                                   Sí votaron;21;498732
+20;Oaxaca;OAX;Circuito Judicial 13;3                                  Lista nominal;21;3144624
+21;Puebla;PUE;Circuito Judicial 6;12                                    IMV;22;78,009953216
+21;Puebla;PUE;Circuito Judicial 6;11                                      IML;22;87,252233446
+21;Puebla;PUE;Circuito Judicial 6;10                                             %Registros no disponibles;22;0,006088497
+21;Puebla;PUE;Circuito Judicial 6;9                                      Registros no disponibles;22;30694
+21;Puebla;PUE;Circuito Judicial 6;8                         %Abstención;22;0,868933281
+21;Puebla;PUE;Circuito Judicial 6;7                                           % Participación;22;0,131066719
+21;Puebla;PUE;Circuito Judicial 6;6                                   Registros totales;22;5010616
+21;Puebla;PUE;Circuito Judicial 6;5                                          No votaron;22;4353891
+21;Puebla;PUE;Circuito Judicial 6;4                                   Sí votaron;22;656725
+21;Puebla;PUE;Circuito Judicial 6;3                                  Lista nominal;22;5041310
+22;Querétaro;QRO;Circuito Judicial 22;12                                    IMV;23;76,213620906
+22;Querétaro;QRO;Circuito Judicial 22;11                                      IML;23;93,401078312
+22;Querétaro;QRO;Circuito Judicial 22;10                                             %Registros no disponibles;23;0,000768522
+22;Querétaro;QRO;Circuito Judicial 22;9                                      Registros no disponibles;23;1495
+22;Querétaro;QRO;Circuito Judicial 22;8                         %Abstención;23;0,892566512
+22;Querétaro;QRO;Circuito Judicial 22;7                                           % Participación;23;0,107433488
+22;Querétaro;QRO;Circuito Judicial 22;6                                   Registros totales;23;1943798
+22;Querétaro;QRO;Circuito Judicial 22;5                                          No votaron;23;1734969
+22;Querétaro;QRO;Circuito Judicial 22;4                                   Sí votaron;23;208829
+22;Querétaro;QRO;Circuito Judicial 22;3                                  Lista nominal;23;1945293
+23;Quintana Roo;QROO;Circuito Judicial 27;12                                    IMV;24;85,474748212
+23;Quintana Roo;QROO;Circuito Judicial 27;11                                      IML;24;101,875751985
+23;Quintana Roo;QROO;Circuito Judicial 27;10                                             %Registros no disponibles;24;0,010196189
+23;Quintana Roo;QROO;Circuito Judicial 27;9                                      Registros no disponibles;24;15397
+23;Quintana Roo;QROO;Circuito Judicial 27;8                         %Abstención;24;0,863977301
+23;Quintana Roo;QROO;Circuito Judicial 27;7                                           % Participación;24;0,136022699
+23;Quintana Roo;QROO;Circuito Judicial 27;6                                   Registros totales;24;1494677
+23;Quintana Roo;QROO;Circuito Judicial 27;5                                          No votaron;24;1291367
+23;Quintana Roo;QROO;Circuito Judicial 27;4                                   Sí votaron;24;203310
+23;Quintana Roo;QROO;Circuito Judicial 27;3                                  Lista nominal;24;1510074
+24;San Luis Potosí;SLP;Circuito Judicial 9;12                                    IMV;25;70,638985485
+24;San Luis Potosí;SLP;Circuito Judicial 9;11                                      IML;25;92,484516612
+24;San Luis Potosí;SLP;Circuito Judicial 9;10                                             %Registros no disponibles;25;0,010438319
+24;San Luis Potosí;SLP;Circuito Judicial 9;9                                      Registros no disponibles;25;23160
+24;San Luis Potosí;SLP;Circuito Judicial 9;8                         %Abstención;25;0,835508301
+24;San Luis Potosí;SLP;Circuito Judicial 9;7                                           % Participación;25;0,164491699
+24;San Luis Potosí;SLP;Circuito Judicial 9;6                                   Registros totales;25;2195588
+24;San Luis Potosí;SLP;Circuito Judicial 9;5                                          No votaron;25;1834432
+24;San Luis Potosí;SLP;Circuito Judicial 9;4                                   Sí votaron;25;361156
+24;San Luis Potosí;SLP;Circuito Judicial 9;3                                  Lista nominal;25;2218748
+25;Sinaloa;SIN;Circuito Judicial 12;12                                    IMV;26;94,374210297
+25;Sinaloa;SIN;Circuito Judicial 12;11                                      IML;26;94,390746986
+25;Sinaloa;SIN;Circuito Judicial 12;10                                             %Registros no disponibles;26;0,004924506
+25;Sinaloa;SIN;Circuito Judicial 12;9                                      Registros no disponibles;26;11765
+25;Sinaloa;SIN;Circuito Judicial 12;8                         %Abstención;26;0,881581134
+25;Sinaloa;SIN;Circuito Judicial 12;7                                           % Participación;26;0,118418866
+25;Sinaloa;SIN;Circuito Judicial 12;6                                   Registros totales;26;2377307
+25;Sinaloa;SIN;Circuito Judicial 12;5                                          No votaron;26;2095789
+25;Sinaloa;SIN;Circuito Judicial 12;4                                   Sí votaron;26;281518
+25;Sinaloa;SIN;Circuito Judicial 12;3                                  Lista nominal;26;2389072
+26;Sonora;SON;Circuito Judicial 5;12                                    IMV;27;95,974516050
+26;Sonora;SON;Circuito Judicial 5;11                                      IML;27;96,912147680
+26;Sonora;SON;Circuito Judicial 5;10                                             %Registros no disponibles;27;0,013101309
+26;Sonora;SON;Circuito Judicial 5;9                                      Registros no disponibles;27;28213
+26;Sonora;SON;Circuito Judicial 5;8                         %Abstención;27;0,905919154
+26;Sonora;SON;Circuito Judicial 5;7                                           % Participación;27;0,094080846
+26;Sonora;SON;Circuito Judicial 5;6                                   Registros totales;27;2125236
+26;Sonora;SON;Circuito Judicial 5;5                                          No votaron;27;1925292
+26;Sonora;SON;Circuito Judicial 5;4                                   Sí votaron;27;199944
+26;Sonora;SON;Circuito Judicial 5;3                                  Lista nominal;27;2153449
+26;Sonora;SON;Circuito Judicial 15;12                                    IMV;28;99,375433727
+26;Sonora;SON;Circuito Judicial 15;11                                      IML;28;97,278048891
+26;Sonora;SON;Circuito Judicial 15;10                                             %Registros no disponibles;28;0
+26;Sonora;SON;Circuito Judicial 15;9                                      Registros no disponibles;28;0
+26;Sonora;SON;Circuito Judicial 15;8                         %Abstención;28;0,917553405
+26;Sonora;SON;Circuito Judicial 15;7                                           % Participación;28;0,082446595
+26;Sonora;SON;Circuito Judicial 15;6                                   Registros totales;28;174234
+26;Sonora;SON;Circuito Judicial 15;5                                          No votaron;28;159869
+26;Sonora;SON;Circuito Judicial 15;4                                   Sí votaron;28;14365
+26;Sonora;SON;Circuito Judicial 15;3                                  Lista nominal;28;174234
+27;Tabasco;TAB;Circuito Judicial 10;12                                    IMV;29;94,602609274
+27;Tabasco;TAB;Circuito Judicial 10;11                                      IML;29;92,199290663
+27;Tabasco;TAB;Circuito Judicial 10;10                                             %Registros no disponibles;29;0,019089200
+27;Tabasco;TAB;Circuito Judicial 10;9                                      Registros no disponibles;29;34934
+27;Tabasco;TAB;Circuito Judicial 10;8                         %Abstención;29;0,858158794
+27;Tabasco;TAB;Circuito Judicial 10;7                                           % Participación;29;0,141841206
+27;Tabasco;TAB;Circuito Judicial 10;6                                   Registros totales;29;1795106
+27;Tabasco;TAB;Circuito Judicial 10;5                                          No votaron;29;1540486
+27;Tabasco;TAB;Circuito Judicial 10;4                                   Sí votaron;29;254620
+27;Tabasco;TAB;Circuito Judicial 10;3                                  Lista nominal;29;1830040
+28;Tamaulipas;TAMPS;Circuito Judicial 19;12                                    IMV;30;80,823933077
+28;Tamaulipas;TAMPS;Circuito Judicial 19;11                                      IML;30;94,702082631
+28;Tamaulipas;TAMPS;Circuito Judicial 19;10                                             %Registros no disponibles;30;0,013747138
+28;Tamaulipas;TAMPS;Circuito Judicial 19;9                                      Registros no disponibles;30;39750
+28;Tamaulipas;TAMPS;Circuito Judicial 19;8                         %Abstención;30;0,861214527
+28;Tamaulipas;TAMPS;Circuito Judicial 19;7                                           % Participación;30;0,138785473
+28;Tamaulipas;TAMPS;Circuito Judicial 19;6                                   Registros totales;30;2851761
+28;Tamaulipas;TAMPS;Circuito Judicial 19;5                                          No votaron;30;2455978
+28;Tamaulipas;TAMPS;Circuito Judicial 19;4                                   Sí votaron;30;395783
+28;Tamaulipas;TAMPS;Circuito Judicial 19;3                                  Lista nominal;30;2891511
+29;Tlaxcala;TLAX;Circuito Judicial 28;12                                    IMV;31;79,521371168
+29;Tlaxcala;TLAX;Circuito Judicial 28;11                                      IML;31;90,189141599
+29;Tlaxcala;TLAX;Circuito Judicial 28;10                                             %Registros no disponibles;31;0,009087835
+29;Tlaxcala;TLAX;Circuito Judicial 28;9                                      Registros no disponibles;31;9649
+29;Tlaxcala;TLAX;Circuito Judicial 28;8                         %Abstención;31;0,856045053
+29;Tlaxcala;TLAX;Circuito Judicial 28;7                                           % Participación;31;0,143954947
+29;Tlaxcala;TLAX;Circuito Judicial 28;6                                   Registros totales;31;1052100
+29;Tlaxcala;TLAX;Circuito Judicial 28;5                                          No votaron;31;900645
+29;Tlaxcala;TLAX;Circuito Judicial 28;4                                   Sí votaron;31;151455
+29;Tlaxcala;TLAX;Circuito Judicial 28;3                                  Lista nominal;31;1061749
+30;Veracruz;VER;Circuito Judicial 7;12                                    IMV;32;78,189749778
+30;Veracruz;VER;Circuito Judicial 7;11                                      IML;32;88,791653876
+30;Veracruz;VER;Circuito Judicial 7;10                                             %Registros no disponibles;32;0,025355319
+30;Veracruz;VER;Circuito Judicial 7;9                                      Registros no disponibles;32;131920
+30;Veracruz;VER;Circuito Judicial 7;8                         %Abstención;32;0,806918372
+30;Veracruz;VER;Circuito Judicial 7;7                                           % Participación;32;0,193081628
+30;Veracruz;VER;Circuito Judicial 7;6                                   Registros totales;32;5070933
+30;Veracruz;VER;Circuito Judicial 7;5                                          No votaron;32;4091829
+30;Veracruz;VER;Circuito Judicial 7;4                                   Sí votaron;32;979104
+30;Veracruz;VER;Circuito Judicial 7;3                                  Lista nominal;32;5202853
+30;Veracruz;VER;Circuito Judicial 10;12                                    IMV;33;82,193095559
+30;Veracruz;VER;Circuito Judicial 10;11                                      IML;33;90,038908723
+30;Veracruz;VER;Circuito Judicial 10;10                                             %Registros no disponibles;33;0,013871504
+30;Veracruz;VER;Circuito Judicial 10;9                                      Registros no disponibles;33;12656
+30;Veracruz;VER;Circuito Judicial 10;8                         %Abstención;33;0,791118995
+30;Veracruz;VER;Circuito Judicial 10;7                                           % Participación;33;0,208881005
+30;Veracruz;VER;Circuito Judicial 10;6                                   Registros totales;33;899718
+30;Veracruz;VER;Circuito Judicial 10;5                                          No votaron;33;711784
+30;Veracruz;VER;Circuito Judicial 10;4                                   Sí votaron;33;187934
+30;Veracruz;VER;Circuito Judicial 10;3                                  Lista nominal;33;912374
+31;Yucatán;YUC;Circuito Judicial 14;12                                    IMV;34;87,678353887
+31;Yucatán;YUC;Circuito Judicial 14;11                                      IML;34;94,603988394
+31;Yucatán;YUC;Circuito Judicial 14;10                                             %Registros no disponibles;34;0,010762428
+31;Yucatán;YUC;Circuito Judicial 14;9                                      Registros no disponibles;34;19331
+31;Yucatán;YUC;Circuito Judicial 14;8                         %Abstención;34;0,873411844
+31;Yucatán;YUC;Circuito Judicial 14;7                                           % Participación;34;0,126588156
+31;Yucatán;YUC;Circuito Judicial 14;6                                   Registros totales;34;1776825
+31;Yucatán;YUC;Circuito Judicial 14;5                                          No votaron;34;1551900
+31;Yucatán;YUC;Circuito Judicial 14;4                                   Sí votaron;34;224925
+31;Yucatán;YUC;Circuito Judicial 14;3                                  Lista nominal;34;1796156
+32;Zacatecas;ZAC;Circuito Judicial 23;12                                    IMV;35;74,693474276
+32;Zacatecas;ZAC;Circuito Judicial 23;11                                      IML;35;92,774009090
+32;Zacatecas;ZAC;Circuito Judicial 23;10                                             %Registros no disponibles;35;0,016213472
+32;Zacatecas;ZAC;Circuito Judicial 23;9                                      Registros no disponibles;35;20858
+32;Zacatecas;ZAC;Circuito Judicial 23;8                         %Abstención;35;0,884044997
+32;Zacatecas;ZAC;Circuito Judicial 23;7                                           % Participación;35;0,115955003
+32;Zacatecas;ZAC;Circuito Judicial 23;6                                   Registros totales;35;1265603
+32;Zacatecas;ZAC;Circuito Judicial 23;5                                          No votaron;35;1118850
+32;Zacatecas;ZAC;Circuito Judicial 23;4                                   Sí votaron;35;146753
+32;Zacatecas;ZAC;Circuito Judicial 23;3                                  Lista nominal;35;1286461

@@ -1,0 +1,10 @@
+# Entorno y editor
+.venv/
+.idea/
+__pycache__/
+
+# Datos crudos (3,5 GB): la app solo usa data/resumen/
+data/DatosAbiertos_DECEyEC_*/
+
+# Carpeta personal de pruebas
+aalbarrg/
